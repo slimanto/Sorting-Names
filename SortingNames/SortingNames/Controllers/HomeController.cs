@@ -5,14 +5,14 @@ using System.Web;
 using System.Web.Mvc;
 using SortingNames.Data.Models;
 using SortingNames.Data.Repositories;
-using System.IO;
 using System.Configuration;
+using System.IO;
 
 namespace SortingNames.Controllers
 {
     public class HomeController : Controller
     {
-        // GET: Home
+        // GET: Home2
         public ActionResult Index()
         {
             return View();

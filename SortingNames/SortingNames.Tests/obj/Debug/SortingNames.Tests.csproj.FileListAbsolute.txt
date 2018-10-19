@@ -31,3 +31,5 @@ C:\Users\idlimantosi\Documents\Visual Studio 2015\Projects\SortingNames\SortingN
 C:\Users\idlimantosi\Documents\Visual Studio 2015\Projects\SortingNames\SortingNames.Tests\obj\Debug\SortingNames.Tests.csprojResolveAssemblyReference.cache
 C:\Users\idlimantosi\Documents\Visual Studio 2015\Projects\SortingNames\SortingNames.Tests\obj\Debug\SortingNames.Tests.dll
 C:\Users\idlimantosi\Documents\Visual Studio 2015\Projects\SortingNames\SortingNames.Tests\obj\Debug\SortingNames.Tests.pdb
+C:\Users\idlimantosi\Documents\GitHub\Sorting-Names\SortingNames\SortingNames.Tests\obj\Debug\SortingNames.Tests.dll
+C:\Users\idlimantosi\Documents\GitHub\Sorting-Names\SortingNames\SortingNames.Tests\obj\Debug\SortingNames.Tests.pdb

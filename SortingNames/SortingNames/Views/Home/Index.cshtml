@@ -1,0 +1,33 @@
+﻿@model IEnumerable<SortingNames.Data.Models.PersonModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2></h2>
+
+@using (Html.BeginForm("Upload", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div>
+        <input type="file" name="file" />
+        <input type="submit" value="Upload File" />
+        <hr />
+    </div>
+}
+
+@if (Model != null)
+{
+
+    string filePath = System.Configuration.ConfigurationManager.AppSettings["FilePath"];
+    string fileName = System.Configuration.ConfigurationManager.AppSettings["FileName"];
+
+    <div> Your file has been saved in @Path.Combine(AppDomain.CurrentDomain.BaseDirectory, filePath, fileName); </div>
+    <hr />
+
+    foreach (var item in Model)
+    {
+        <div>
+            @item.FullName
+        </div>
+    }
+}

@@ -52,8 +52,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SortingNames.Library\SortingNames.Data.csproj">
-      <Project>{eb93ef8e-b761-47fa-a804-d6f859239d89}</Project>
+    <ProjectReference Include="..\SortingNames.Data\SortingNames.Data.csproj">
+      <Project>{73f225ce-b9cf-40d3-b982-b518fe226dca}</Project>
       <Name>SortingNames.Data</Name>
     </ProjectReference>
     <ProjectReference Include="..\SortingNames\SortingNames.csproj">

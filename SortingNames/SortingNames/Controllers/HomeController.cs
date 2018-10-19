@@ -12,7 +12,7 @@ namespace SortingNames.Controllers
 {
     public class HomeController : Controller
     {
-        // GET: Home2
+        // GET: Home
         public ActionResult Index()
         {
             return View();

@@ -19,10 +19,10 @@ namespace SortingNames.Data.Repositories
             foreach (string name in names)
             {
                 PersonModel person = new PersonModel();
-                string[] sLastNames = name.Split(' ');
+                string[] namesCollection = name.Split(' ');
                 person.FullName = name;
-                person.FirstName = sLastNames[0];
-                person.LastName = sLastNames[sLastNames.Count() - 1];
+                person.FirstName = namesCollection[0];
+                person.LastName = namesCollection[namesCollection.Count() - 1];
                 people.Add(person);
             }
 

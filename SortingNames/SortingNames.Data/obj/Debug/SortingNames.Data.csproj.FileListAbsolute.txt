@@ -4,5 +4,6 @@ C:\Users\idlimantosi\Documents\Visual Studio 2015\Projects\SortingNames\SortingN
 C:\Users\idlimantosi\Documents\Visual Studio 2015\Projects\SortingNames\SortingNames.Data\obj\Debug\SortingNames.Data.pdb
 C:\Users\idlimantosi\Documents\GitHub\Sorting-Names\SortingNames\SortingNames.Data\bin\Debug\SortingNames.Data.dll
 C:\Users\idlimantosi\Documents\GitHub\Sorting-Names\SortingNames\SortingNames.Data\bin\Debug\SortingNames.Data.pdb
+C:\Users\idlimantosi\Documents\GitHub\Sorting-Names\SortingNames\SortingNames.Data\obj\Debug\SortingNames.Data.csprojResolveAssemblyReference.cache
 C:\Users\idlimantosi\Documents\GitHub\Sorting-Names\SortingNames\SortingNames.Data\obj\Debug\SortingNames.Data.dll
 C:\Users\idlimantosi\Documents\GitHub\Sorting-Names\SortingNames\SortingNames.Data\obj\Debug\SortingNames.Data.pdb

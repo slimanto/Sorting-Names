@@ -1,5 +1,5 @@
+C:\Users\idlimantosi\Documents\Visual Studio 2015\Projects\SortingNames\SortingNames.Library\bin\Debug\SortingNames.Library.dll
+C:\Users\idlimantosi\Documents\Visual Studio 2015\Projects\SortingNames\SortingNames.Library\bin\Debug\SortingNames.Library.pdb
 C:\Users\idlimantosi\Documents\Visual Studio 2015\Projects\SortingNames\SortingNames.Library\obj\Debug\SortingNames.Data.csprojResolveAssemblyReference.cache
 C:\Users\idlimantosi\Documents\Visual Studio 2015\Projects\SortingNames\SortingNames.Library\obj\Debug\SortingNames.Library.dll
 C:\Users\idlimantosi\Documents\Visual Studio 2015\Projects\SortingNames\SortingNames.Library\obj\Debug\SortingNames.Library.pdb
-C:\Users\idlimantosi\Documents\Visual Studio 2015\Projects\SortingNames\SortingNames.Library\bin\Debug\SortingNames.Library.dll
-C:\Users\idlimantosi\Documents\Visual Studio 2015\Projects\SortingNames\SortingNames.Library\bin\Debug\SortingNames.Library.pdb
